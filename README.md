@@ -1,4 +1,4 @@
-Welcome to JSONSchema.Net
+Welcome to JSONschema.Net
 =========================
 
 [<img src="https://img.shields.io/badge/donate-paypal-brightgreen.svg">](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YDKCU75EK795U)
