@@ -1,0 +1,15 @@
+# specifies the order in which you want the entries to appear
+# at that level. For example, the default navigation.yaml
+# specifies that the Introduction page should appear first,
+# followed by the Guides section, and so on.
+ordering:
+- Introduction
+- Guides
+- API Reference
+- Resources
+
+folders:
+  Guides:
+    ordering:
+    - Getting Started
+    - Example Page
