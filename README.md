@@ -6,35 +6,18 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/jsonschema)
 
 1.  [Contact](#contact)
-2.  [Donate](#donate)
-3.  [What is JSONSchema.Net?](#what-is-jsonschemanet)
-4.  [How does JSONSchema.Net work?](#how-does-jsonschemanet-work)
-5.  [Who uses JSONSchema.Net?](#who-uses-jsonschemanet)
-6.  [What is JSONSchema.Net’s goal?](#what-is-jsonschemanets-goal)
-7.  [How can your organization benefit from using JSONSchema.Net?](#how-can-your-organization-benefit-from-using-jsonschemanet)
-8.  [Gallery](#gallery)
-9.  [Specifications](#specifications)
+2.  [What is JSONSchema.Net?](#what-is-jsonschemanet)
+3.  [How does JSONSchema.Net work?](#how-does-jsonschemanet-work)
+4.  [Who uses JSONSchema.Net?](#who-uses-jsonschemanet)
+5.  [What is JSONSchema.Net’s goal?](#what-is-jsonschemanets-goal)
+6.  [How can your organization benefit from using JSONSchema.Net?](#how-can-your-organization-benefit-from-using-jsonschemanet)
+7.  [Gallery](#gallery)
+8.  [Specifications](#specifications)
 
 ### Contact
 
 - Email: info@jsonschema.net
 - Twitter: [@jsonschema](https://twitter.com/jsonschema)
-
-### Donate
-
-[<img src="https://img.shields.io/badge/donate-paypal-brightgreen.svg">](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YDKCU75EK795U)
-
-JSONSchema.Net is designed to save you time and make your day a little easier.
-
-There are no adverts and no login is required. Nothing is logged beyond default application server logs and there are no tracking pixels other than Google Analytics.
-
-Your JSON is never stored and you're always secured with 256 bit encryption.
-
-If you find JSONSchema.Net useful, please consider [donating to help](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YDKCU75EK795U) with the cost of:
-
-- Application server uptime
-- Web server uptime
-- SSL certificates
 
 ### What is JSONSchema.Net?
 
