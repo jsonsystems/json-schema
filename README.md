@@ -6,12 +6,10 @@
 
 1.  [Contact](#contact)
 2.  [What is JSONSchema.Net?](#what-is-jsonschemanet)
-3.  [How does JSONSchema.Net work?](#how-does-jsonschemanet-work)
-4.  [Who uses JSONSchema.Net?](#who-uses-jsonschemanet)
-5.  [What is JSONSchema.Net’s goal?](#what-is-jsonschemanets-goal)
-6.  [How can your organization benefit from using JSONSchema.Net?](#how-can-your-organization-benefit-from-using-jsonschemanet)
-7.  [Gallery](#gallery)
-8.  [Specifications](#specifications)
+3.  [Who uses JSONSchema.Net?](#who-uses-jsonschemanet)
+4.  [What is JSONSchema.Net’s goal?](#what-is-jsonschemanets-goal)
+5.  [How can your organization benefit from using JSONSchema.Net?](#how-can-your-organization-benefit-from-using-jsonschemanet)
+6.  [Specifications](#specifications)
 
 ### Contact
 
@@ -22,12 +20,6 @@
 
 [JSONSchema.Net](https://www.jsonschema.net) is a web application that generates JSON schema from JSON. JSON Schema is generated according to
 the [JSON Schema Validation: A Vocabulary for Structural Validation of JSON](http://json-schema.org/latest/json-schema-validation.html).
-
-### How does JSONSchema.Net work?
-
-Users' interact with JSONSchema.Net using a web _frontend_ written in [Angular](https://angular.io). The _backend_ is written in Python and runs on Google's Compute Engine in their Cloud. An [NGINX](https://www.nginx.com/resources/wiki/) reverse proxy sits between the backend and the frontend - primarily to transcode JSON to [Protocol Buffers](https://developers.google.com/protocol-buffers/) and vice-versa.
-
-[Cloud Endpoints: Architectural Overview](https://cloud.google.com/endpoints/docs/grpc/architecture-overview) provides a high-level view of [Cloud Endpoints Architecture](https://cloud.google.com/endpoints/docs/grpc/architecture-overview#cloud_endpoints_architecture), and thus, the architecture of JSONSchema.Net.
 
 ### Who uses JSONSchema.Net?
 
@@ -59,10 +51,6 @@ Even schemas for small APIs can quickly become hundreds of lines long. Writing s
 ### How can your organization benefit from using JSONSchema.Net?
 
 [JSONSchema.Net](https://www.jsonschema.net) can save you and anyone on your team a lot of time. If your software uses JSON, it's good practice to validate any (JSON) data it receives, against a schema.
-
-### Gallery
-
-![JSON Schema](media/1.png?raw=true 'JSON Schema')
 
 ### Specifications
 
