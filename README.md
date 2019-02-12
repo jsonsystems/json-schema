@@ -1,6 +1,5 @@
 # Welcome to JSONschema.Net
 
-[<img src="https://us-central1-json-schema.cloudfunctions.net/weekly-users">](https://us-central1-json-schema.cloudfunctions.net/weekly-users)
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)]()
 [![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/jsonschema)
 
