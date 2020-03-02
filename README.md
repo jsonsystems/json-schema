@@ -1,7 +1,6 @@
 # Welcome to JSONschema.Net
 
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)]()
-[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/jsonschema)
 
 1.  [Contact](#contact)
 2.  [What is JSONSchema.Net?](#what-is-jsonschemanet)
