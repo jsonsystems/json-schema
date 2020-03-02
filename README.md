@@ -13,7 +13,6 @@
 ### Contact
 
 - Email: info@jsonschema.net
-- Twitter: [@jsonschema](https://twitter.com/jsonschema)
 
 ### What is JSONSchema.Net?
 
