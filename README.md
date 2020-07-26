@@ -79,6 +79,7 @@ Each version updates (to varying degrees) the three parts of JSON Schema specifi
 Created by Jack Wootton. Copyright 2017. Apache Licensed.
 
 ### Cookie
-Accessing our website tells us you are happy to receive all our cookies.
+Our cookie policy can be read at [cookies.md](https://github.com/jsonsystems/json-schema/blob/master/cookies.md)
 
 ### Privacy
+Our privacy policy can be read at [privacy.md](https://github.com/jsonsystems/json-schema/blob/master/privacy.md)
