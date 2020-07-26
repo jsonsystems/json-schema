@@ -9,7 +9,7 @@
 5.  [How can your organization benefit from using JSONSchema.Net?](#how-can-your-organization-benefit-from-using-jsonschemanet)
 6.  [Specifications](#specifications)
 7.  [About](#about)
-8.  [Cookie Policy](#cookie)
+8.  [Cookie Policy](#cookie-policy)
 9.  [Privacy Policy](#privacy-policy)
 
 ### Contact
@@ -78,8 +78,8 @@ Each version updates (to varying degrees) the three parts of JSON Schema specifi
 
 Created by Jack Wootton. Copyright 2017. Apache Licensed.
 
-### Cookie
+### Cookie Policy
 Our cookie policy can be read at [cookies.md](https://github.com/jsonsystems/json-schema/blob/master/cookies.md)
 
-### Privacy
+### Privacy Policy
 Our privacy policy can be read at [privacy.md](https://github.com/jsonsystems/json-schema/blob/master/privacy.md)
