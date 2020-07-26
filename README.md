@@ -8,6 +8,8 @@
 4.  [What is JSONSchema.Net’s goal?](#what-is-jsonschemanets-goal)
 5.  [How can your organization benefit from using JSONSchema.Net?](#how-can-your-organization-benefit-from-using-jsonschemanet)
 6.  [Specifications](#specifications)
+7.  [Cookie Policy]](#cookie)
+8.  [Privacy Policy]](#privacy)
 
 ### Contact
 
@@ -74,3 +76,8 @@ Each version updates (to varying degrees) the three parts of JSON Schema specifi
 ## About
 
 Created by Jack Wootton. Copyright 2017. Apache Licensed.
+
+## Cookie
+Accessing our website tells us you are happy to receive all our cookies.
+
+## Privacy
