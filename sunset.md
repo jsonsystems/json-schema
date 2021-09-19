@@ -1,0 +1,5 @@
+The current version of [JSONschema.net](https://jsonschema.net) is being replaced. Existing schemas will NOT be ported to the application.
+
+If you want to keep any schemas you've generated, please copy them out of [JSONschema.net](https://jsonschema.net).
+
+If you have any questions, please either contact info@jsonschema.net or open a new issue on this GitHub repo.
