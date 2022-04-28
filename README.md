@@ -1,3 +1,9 @@
+# Repo Archived
+Please use https://github.com/jsonsystems/public
+
+
+
+
 # Welcome to JSONschema.Net
 
 [![Hex.pm](https://img.shields.io/hexpm/l/plug.svg)]()
